@@ -1,9 +1,9 @@
 #$ TITLE: Street League LeadFingers PIDtoolbox tune
-#$ FIRMWARE_VERSION: 4.5
+#$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: Street League, StreetLeague, Street, League, LeadFingers, PIDtoolbox, 7"
-#$ AUTHOR: LeadFingers
+#$ AUTHOR: NewTech 26
 
 #$ DESCRIPTION: LeadFingers tune for Street League quads
 #$ DESCRIPTION: ESC must be bi-directional Dshot ready
